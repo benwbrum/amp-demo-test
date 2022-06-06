@@ -1,0 +1,418 @@
+{
+  "type": "AnnotationPage",
+  "label": {
+    "en": [
+      "Organization Entities"
+    ]
+  },
+  "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1",
+  "items": [
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/0",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=8.03,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the Cook Group",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/17",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=83.42,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana University",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/33",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=150.85,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cbs",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/37",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=159.44,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Range",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/43",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=186.32,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southern methodist University",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/48",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=215.85,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "fred waring choral workshops",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/52",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=227.81,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harvard",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/67",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=325.65,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/68",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=341.57,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana University",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/74",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=412.31,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana University",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/80",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=499.57,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/91",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=564.99,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/92",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=570.45,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/100",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=610.7,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana University School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/104",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=622.87,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/109",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=637.17,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "martin news",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/111",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=640.02,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Metropolitan Opera House",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/112",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=644.18,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the University School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/113",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=650.17,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Metropolitan Opera House",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/117",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=670.33,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana University",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/120",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=685.42,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bloomington",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/133",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=769.19,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "bloomington",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/136",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=789.09,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/143",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=864.18,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the Boston Symphony",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/148",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=898.0,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana University Screen",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/151",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=921.17,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana University School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/157",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1033.49,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dean Web",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/161",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1107.65,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/162",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1109.23,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana University",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/163",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1132.23,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/170",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1200.34,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/177",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1296.58,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana University School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/179",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1329.96,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the School of Music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/193",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1440.29,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bloomington",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/197",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1445.79,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "United Methodist Church",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/204",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1493.36,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the United Methodist Church",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/organization_entities_1/annotation/221",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1716.11,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the Cook Group",
+        "format": "text/plain"
+      }
+    }
+  ]
+}
