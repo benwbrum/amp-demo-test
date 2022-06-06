@@ -1,0 +1,726 @@
+{
+  "type": "AnnotationPage",
+  "label": {
+    "en": [
+      "Person Entities"
+    ]
+  },
+  "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1",
+  "items": [
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/12",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=44.28,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "joseph",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/15",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=69.42,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "a Dean",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/21",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=106.2,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/22",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=118.48,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles webb",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/31",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=148.9,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bowes",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/38",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=168.31,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hammond",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/46",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=207.71,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kendra Matt",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/55",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=239.86,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dean",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/56",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=254.27,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "walter robert",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/57",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=255.17,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/58",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=256.36,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stewart",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/59",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=260.12,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Yo",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/64",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=295.61,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilford Bein",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/65",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=297.22,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles Webb",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/73",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=403.82,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles webb",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/75",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=439.84,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/77",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=461.49,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "David",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/78",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=490.05,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/81",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=513.46,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/82",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=521.63,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/83",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=532.72,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/84",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=535.37,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles, webb",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/85",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=537.86,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/87",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=550.31,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/88",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=556.17,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles Red",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/90",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=561.61,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilford Bein",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/101",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=614.5,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bernstein",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/118",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=673.88,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leonard Bernstein",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/119",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=684.84,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "lenny",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/121",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=687.65,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/122",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=691.87,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "lenny",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/125",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=720.94,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/127",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=725.69,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hosea",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/135",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=788.54,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the Dean",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/141",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=839.44,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs webb",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/144",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=869.0,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leonard Bernstein",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/156",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1030.94,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "charlie webb",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/158",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1048.29,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/159",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1066.94,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/160",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1076.77,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/164",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1144.26,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/165",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1150.06,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/167",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1154.37,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/169",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1177.69,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/171",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1234.39,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "an Angela Brown",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/172",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1257.73,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/173",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1266.46,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dean Web",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/174",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1271.54,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Aaron Copeland Lincoln",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/175",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1288.86,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/180",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1334.09,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/181",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1347.98,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/183",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1389.22,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/187",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1399.96,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/188",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1407.68,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/189",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1410.33,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/191",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1430.51,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/201",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1477.38,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "David King",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/202",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1478.19,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "David Dancing",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/203",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1481.68,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/207",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1536.95,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joyce",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/210",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1579.35,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wallace Horner Brooke",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/216",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1650.24,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/217",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1656.76,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles Webb",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/218",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1669.72,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/person_entities_1/annotation/219",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1670.03,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Webb",
+        "format": "text/plain"
+      }
+    }
+  ]
+}
