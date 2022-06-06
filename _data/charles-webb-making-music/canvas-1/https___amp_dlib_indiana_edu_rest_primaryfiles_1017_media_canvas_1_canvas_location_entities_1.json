@@ -1,0 +1,550 @@
+{
+  "type": "AnnotationPage",
+  "label": {
+    "en": [
+      "Location Entities"
+    ]
+  },
+  "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1",
+  "items": [
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/1",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=9.23,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bloomington",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/2",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=9.89,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/3",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=17.88,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Europe",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/4",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=21.02,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/5",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=25.05,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Japan",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/6",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=26.34,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Israel",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/7",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=27.03,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Europe",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/8",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=27.97,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Russia",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/9",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=29.18,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "South America",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/10",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=39.78,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Russia",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/11",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=42.99,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "New york",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/13",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=45.43,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Los Angeles",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/14",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=59.1,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the United States",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/24",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=127.66,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the United States",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/29",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=143.39,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dallas",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/34",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=152.71,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/42",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=176.6,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dallas",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/44",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=196.94,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Big Spring",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/45",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=197.56,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Texas",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/50",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=221.18,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bloomington",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/51",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=221.64,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/63",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=290.97,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "East Hall",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/66",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=318.23,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "East",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/69",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=347.71,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "East Hall",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/70",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=351.41,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "East Hall",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/76",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=442.09,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/86",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=541.31,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the United States",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/94",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=586.28,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Japan",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/95",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=594.17,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bastille Opera House",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/96",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=595.6,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paris",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/99",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=605.19,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Monaco",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/102",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=618.13,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the Kennedy Center",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/103",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=619.12,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/107",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=628.78,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "New york City",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/114",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=653.8,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/116",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=668.06,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "the Heartland of America",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/123",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=699.41,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/124",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=706.33,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/146",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=880.13,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mass",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/147",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=883.22,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tanglewood",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/149",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=907.4,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bloomington",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/150",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=911.02,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tanglewood",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/155",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1012.14,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mass.",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/178",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1311.14,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/208",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1570.94,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pennsylvania",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/211",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1582.9,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pennsylvania",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/220",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1676.96,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/222",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1717.32,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bloomington",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/location_entities_1/annotation/223",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1717.98,None",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana",
+        "format": "text/plain"
+      }
+    }
+  ]
+}
