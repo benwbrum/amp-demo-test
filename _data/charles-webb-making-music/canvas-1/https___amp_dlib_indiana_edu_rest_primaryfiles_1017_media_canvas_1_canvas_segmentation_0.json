@@ -1,0 +1,902 @@
+{
+  "type": "AnnotationPage",
+  "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0",
+  "items": [
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/0",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=0.0,5.7",
+      "body": {
+        "type": "TextualBody",
+        "value": "silence",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/1",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=5.7,16.080000000000002",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/2",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=16.080000000000002,19.38",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/3",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=19.38,220.5",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/4",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=220.5,223.22",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/5",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=223.22,238.0",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/6",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=238.0,250.06",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/7",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=250.06,298.6",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/8",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=298.6,315.1",
+      "body": {
+        "type": "TextualBody",
+        "value": "noise",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/9",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=315.1,377.96",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/10",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=377.96,393.5",
+      "body": {
+        "type": "TextualBody",
+        "value": "noise",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/11",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=393.5,442.58",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/12",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=442.58,451.90000000000003",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/13",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=451.90000000000003,556.28",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/14",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=556.28,558.5",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/15",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=558.5,723.42",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/16",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=723.42,729.3000000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/17",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=729.3000000000001,822.08",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/18",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=822.08,823.72",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/19",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=823.72,824.34",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/20",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=824.34,827.58",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/21",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=827.58,857.9200000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/22",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=857.9200000000001,864.3000000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/23",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=864.3000000000001,896.36",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/24",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=896.36,901.22",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/25",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=901.22,913.02",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/26",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=913.02,916.64",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/27",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=916.64,926.28",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/28",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=926.28,953.58",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/29",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=953.58,976.48",
+      "body": {
+        "type": "TextualBody",
+        "value": "noise",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/30",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=976.48,987.3000000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/31",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=987.3000000000001,1002.98",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/32",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1002.98,1048.46",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/33",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1048.46,1050.94",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/34",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1050.94,1055.52",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/35",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1055.52,1060.54",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/36",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1060.54,1152.6000000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/37",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1152.6000000000001,1158.94",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/38",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1158.94,1161.24",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/39",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1161.24,1179.68",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/40",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1179.68,1189.82",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/41",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1189.82,1199.76",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/42",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1199.76,1282.2",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/43",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1282.2,1286.68",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/44",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1286.68,1306.52",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/45",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1306.52,1308.88",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/46",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1308.88,1314.38",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/47",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1314.38,1316.98",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/48",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1316.98,1321.46",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/49",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1321.46,1325.94",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/50",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1325.94,1336.8",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/51",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1336.8,1362.8600000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/52",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1362.8600000000001,1369.32",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/53",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1369.32,1372.32",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/54",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1372.32,1388.8600000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/55",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1388.8600000000001,1410.32",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/56",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1410.32,1427.48",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/57",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1427.48,1430.52",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/58",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1430.52,1436.46",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/59",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1436.46,1438.32",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/60",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1438.32,1453.06",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/61",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1453.06,1459.52",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/62",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1459.52,1503.28",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/63",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1503.28,1507.66",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/64",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1507.66,1513.76",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/65",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1513.76,1516.0",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/66",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1516.0,1518.6000000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/67",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1518.6000000000001,1529.6000000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/68",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1529.6000000000001,1532.3400000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/69",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1532.3400000000001,1537.88",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/70",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1537.88,1541.8600000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/71",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1541.8600000000001,1555.1000000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/72",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1555.1000000000001,1556.6200000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/73",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1556.6200000000001,1573.24",
+      "body": {
+        "type": "TextualBody",
+        "value": "noise",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/74",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1573.24,1594.54",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/75",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1594.54,1600.18",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/76",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1600.18,1639.3400000000001",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/77",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1639.3400000000001,1655.3",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/78",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1655.3,1676.32",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/79",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1676.32,1713.8",
+      "body": {
+        "type": "TextualBody",
+        "value": "music",
+        "format": "text/plain"
+      }
+    },
+    {
+      "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media/canvas-1/canvas/segmentation_0/annotation/80",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "https://amp.dlib.indiana.edu/symlink/A-1017-NY2nLyOweMDZFaYt.mp4#t=1713.8,1732.2",
+      "body": {
+        "type": "TextualBody",
+        "value": "speech",
+        "format": "text/plain"
+      }
+    }
+  ],
+  "label": {
+    "en": [
+      "Audio Segmentation"
+    ]
+  }
+}
