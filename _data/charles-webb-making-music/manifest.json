@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://gist.githubusercontent.com/saverkamp/eefd806e70876476251baf9f45a01d81/raw/7076ad43ce6d41d69442873785a5802cabb3de76/charles_webb_manifest.json",
+    "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media.json",
     "type": "Manifest",
     "label": {
         "en": [
